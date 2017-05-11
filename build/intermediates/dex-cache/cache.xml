@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Saurav/AndroidStudioProjects/BlinkingEffect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Saurav/AndroidStudioProjects/BlinkingEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7aee406567ded14f56c52d101e9ff8f580513209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Saurav/AndroidStudioProjects/BlinkingEffect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb089392e6df47f1c247c31e310612ef6d2b801">
+        <dex dex="/Users/Saurav/AndroidStudioProjects/BlinkingEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09ae5e38c3e6d5fe10a3380f1d6a2b21d45c26b0/classes.dex" />
+    </item>
+
+</items>
